@@ -1,13 +1,16 @@
 # BMAX Quad Menu v0.1
 
-BMAX Quad Menu 是 Blender 5.3 的四象限浮動選單外掛。在游標附近打開常用工具，依模式切換選單，也可以自己安排指令和快捷鍵。
+BMAX Quad Menu is a customizable four-quadrant menu for Blender 5.3. Open it at the cursor to access common selection, visibility, transform, and modeling commands.
 
-![Blender 視窗中的 BMAX 四象限浮動選單](max_quad_menu/bmax-quad-menu.png)
+![BMAX Quad Menu in the Blender viewport](max_quad_menu/bmax-quad-menu.png)
 
-- **四象限工具選單**涵蓋選取、顯示、物件新增、變形和常用建模指令。
-- **子選單**與父項目對齊，滑鼠跨越空隙時會保持展開。
-- **自訂指令與快捷鍵**支援直接錄製觸發鍵（包括反引號），並以 JSON 匯入、匯出選單設定。
+- Organize commands and submenus by Blender mode.
+- Move from parent rows into aligned submenus without closing them while crossing the gap.
+- Record trigger and command shortcuts directly, including the backtick key.
+- Import and export menu settings as JSON.
 
-[下載 Blender 5.3 安裝 ZIP](BMAX_Quad_Menu_Blender53_v0_1.zip) · [繁體中文說明](max_quad_menu/README.md) · [English documentation](max_quad_menu/README.en.md)
+[Download the Blender 5.3 installation ZIP](https://github.com/Aomay77/BMAX-Quad-Menu/releases/download/v0.1/BMAX_Quad_Menu_Blender53_v0_1.zip) · [English documentation](max_quad_menu/README.en.md) · [繁體中文說明](max_quad_menu/README.md)
 
-BMAX Quad Menu brings common Blender 5.3 tools into a four-quadrant menu at your cursor. It supports mode-specific menus, aligned submenus, shortcut recording, and JSON import and export.
+## 繁體中文
+
+BMAX Quad Menu 是 Blender 5.3 的四象限浮動選單外掛。可依模式自訂指令，在游標旁開啟常用工具，並直接錄製快捷鍵。支援子選單對齊、滑鼠跨隙及 JSON 設定匯入與匯出。
