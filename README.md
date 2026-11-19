@@ -2,7 +2,7 @@
 
 **3ds Max style quad menus for Blender** · [繁體中文說明](README.zh-TW.md)
 
-![BMAX Quad Menu](docs/images/preview.webp)
+![BMAX Quad Menu](preview.webp)
 
 BMAX Quad Menu brings the 3ds Max quad menu to Blender: four quadrants around the cursor, quad sets on different shortcuts, tools that change with the selection and sub-object level, and the 3ds Max Advanced Quad Menu Options. Every command runs a native Blender operator.
 
