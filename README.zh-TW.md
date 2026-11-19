@@ -2,7 +2,7 @@
 
 **Blender 的 3ds Max 風格四象限選單** · [English](README.md)
 
-![BMAX Quad Menu](docs/images/preview.webp)
+![BMAX Quad Menu](preview.webp)
 
 BMAX Quad Menu 把 3ds Max 的 Quad Menu 帶進 Blender：
 
