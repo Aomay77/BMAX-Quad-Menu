@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+
+id = "bmax_quad_menu"
+version = "1.1.0"
+name = "BMAX Quad Menu"
+tagline = "3ds Max style quad menus with quad sets and full customization"
+maintainer = "BMAX Quad Menu contributors"
+type = "add-on"
+tags = ["Interface", "3D View"]
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+
+[permissions]
+files = "Reads and writes its menu settings JSON in the Blender config folder"
